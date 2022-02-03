@@ -5,3 +5,5 @@ A python package for spatial-temporal Gaussian process modelling of air quality 
 The Data processing folder contains the raw data and R code to transform it for modelling.
 
 The GP code folder contains the python package stgp and ipython notebooks demonstrating it.
+
+Spatial temporal Gaussian process modelling of air quality.pdf is the full report of the work.
